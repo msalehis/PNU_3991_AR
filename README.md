@@ -4,10 +4,10 @@
 ### سید مسعود صالحی
 
 ---
-- [حساب گیت هاب](https://github.com/hamidkeshavarzkh)
-- [آدرس رزومه](https://hamidkeshavarzkh.github.io/)
-- [SOP](https://github.com/hamidkeshavarzkh/SOP)
-
+- [حساب گیت هاب](https://github.com/msalehis)
+- [آدرس رزومه](https://msalehis.github.io/masoud1369/)
+- [SOP]()
+- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20278133/pdf/)
 -------------------
 
 
