@@ -15,12 +15,12 @@
 
 1. G-L01
 
-   1. [_LMT-54_حمید کشاورز خورشیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/54_%D8%AD%D9%85%D9%8A%D8%AF%20%D9%83%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%AE%D9%88%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A)
+   1. [_LMT-35_سید مسعود صالحی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/35_%D8%B3%D9%8A%D8%AF%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%D9%8A)
 
 
 2. G-R01
  
-   1. [_RAPM-56_حمید کشاورز خورشیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/56_%D8%AD%D9%85%D9%8A%D8%AF%20%D9%83%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%AE%D9%88%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A)
+   1. [_RAPM-05_سید مسعود صالحی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1115133_01/05_%D8%B3%D9%8A%D8%AF%D9%85%D8%B3%D8%B9%D9%88%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%D9%8A)
    
 -----------------
 
