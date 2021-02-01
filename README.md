@@ -16,11 +16,11 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](ms_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](ms_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس روش پژوهش و ارائه]()
-- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
+- [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/msalehis/PNU_3991_AR/blob/masoud/ResearchAndPresentationMethods/ms_ResearchAndPresentationMethods_CheckList_AR_3991%20(1).pdf)
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/msalehis/PNU_3991_AR/blob/masoud/Theory-of-Languages-and-Machines/ms_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ----------
 
