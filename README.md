@@ -7,7 +7,7 @@
 ---
 - [حساب گیت هاب](https://github.com/msalehis)
 - [ PNU_3991_AR](https://github.com/msalehis/PNU_3991_AR)
-- [آدرس رزومه](https://msalehis.github.io/masoud1369/)
+- [ رزومه](https://msalehis.github.io/masoud1369/)
 - [انگیزه نامه](https://github.com/msalehis/SOP/)
 - [مدرک جاوا اسکریپت](https://www.sololearn.com/Certificate/1024-20278133/pdf/)
 - [مدرک پچ ورک]()
